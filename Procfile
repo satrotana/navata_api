@@ -1,1 +1,1 @@
-we gunicorn navata_api.asgi:apllication --log-file -
+we gunicorn navata_api.asgi:application --log-file -
