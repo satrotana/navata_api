@@ -1,1 +1,1 @@
-web: gunicorn app:server
+we gunicorn navata_api.asgi:apllication --log-file -
